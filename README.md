@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alicia and I just graduate with my Master of Science in Experimental Psychology.
+- 👀 I’m interested in data analysis, visualization, and research.
+- 🌱 I’m currently self-learning R, Python, and SQL for data science.
